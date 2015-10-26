@@ -1,2 +1,2 @@
 # Coursera_R_Programming
-R Programming
+Repository for Coursera R Programming
